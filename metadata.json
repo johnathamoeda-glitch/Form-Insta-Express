@@ -1,0 +1,6 @@
+{
+  "name": "EstofaClean - Agendamento Online & Orçamentos",
+  "description": "Sistema de agendamento online para empresa de limpeza e impermeabilização de estofados com envio direto e automatizado para o WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
